@@ -1,6 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .bg-image{
-    background-image: url(./images/banner.jpeg);
+    background-image: url(./images/grass-g4e9311138_1920.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    width: 100vw;
    }
+
+.form-image{
+    background-image: url(./images/leaves-g2e5e684d3_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 550px;
+    width: 100vw;
+    color: rgb(128, 74, 90);
+}
