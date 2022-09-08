@@ -32,7 +32,7 @@ Project aims to create a website with Bootstrap.
 ## Project Skeleton 
 
 ```
-parallax-website(folder)
+bootstrap-website(folder)
 
 |----README.md                   
 |----images      
@@ -86,7 +86,7 @@ parallax-website(folder)
 
 ### Useful resources
 
-- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [W3 Schools](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
 - [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
 - [Clarusway](https://clarusway.com/aws-devops/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCjMru99tYkggAXDKaHPXlmNHqGXxFtkPw_EeiIechV8YNa6bUd9DLkaAsJkEALw_wcB) - This Project was assigned by Clarusway.
 
