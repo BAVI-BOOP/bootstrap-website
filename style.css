@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 .bg-image{
@@ -20,4 +21,8 @@
     height: 550px;
     width: 100vw;
     color: rgb(128, 74, 90);
+}
+
+.difference {
+    background-color: antiquewhite;
 }
