@@ -32,7 +32,7 @@ Project aims to create a website with Bootstrap.
 ## Project Skeleton 
 
 ```
-parallax-website(folder)
+bootstrap-website(folder)
 
 |----README.md                   
 |----images      
