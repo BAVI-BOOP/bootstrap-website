@@ -25,3 +25,7 @@
 .difference {
     background-color: antiquewhite;
 }
+
+.nav-link {
+    text-shadow: 0 0 2px;
+}
